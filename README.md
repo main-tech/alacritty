@@ -14,9 +14,7 @@ sudo pacman -S ttf-hack-nerd
 
 
 # For other distributions, you can search for the package in your repository or download directly from the Nerd Fonts website:
-# Search in repository:
 
-# Direct download from Nerd Fonts website:
 # Visit the website and download the font manually
 # https://www.nerdfonts.com/font-downloads
 # Then install it according to your system's font installation procedure
