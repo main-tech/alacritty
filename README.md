@@ -6,8 +6,20 @@ This repository contains my personal configuration files for the Alacritty termi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/main-tech/alacrity.git
+   git clone https://github.com/main-tech/alacritty.git
    ```
+# Install Hack Nerd Font (Using package manager or direct download)
+# For Arch Linux:
+sudo pacman -S ttf-hack-nerd
+
+
+# For other distributions, you can search for the package in your repository or download directly from the Nerd Fonts website:
+# Search in repository:
+
+# Direct download from Nerd Fonts website:
+# Visit the website and download the font manually
+# https://www.nerdfonts.com/font-downloads
+# Then install it according to your system's font installation procedure
 
 2. **Navigate to the Directory:**
    ```bash
